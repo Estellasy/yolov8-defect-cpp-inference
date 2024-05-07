@@ -3,6 +3,7 @@
 # 如何运行
 **NOTE: OpenCV版本要求>=4.7.0，测试版本为4.7.0**
 ```bash
+git clone https://github.com/Estellasy/yolov8-defect-cpp-inference.git
 cd yolov8-defect-cpp-inference
 mkdir build
 cd build
